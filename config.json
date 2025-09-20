@@ -1,0 +1,24 @@
+{
+    "combined_config": {
+        "theme": "dark",
+        "language": "fr"
+    },
+    "sections": {
+        "general": {
+            "theme": "dark",
+            "language": "fr"
+        }
+    },
+    "ordered_configs": {
+        "env": {
+            "theme": "dark"
+        },
+        "user": {
+            "language": "fr"
+        },
+        "default": {
+            "theme": "light",
+            "language": "en"
+        }
+    }
+}
