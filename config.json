@@ -1,13 +1,61 @@
 {
-    "combined_config": {
+    "config_objects": [
+        {
+            "key": "theme",
+            "value": "light",
+            "section": "general",
+            "default_value": "light"
+        },
+        {
+            "key": "language",
+            "value": "en",
+            "section": "general",
+            "default_value": "en"
+        },
+        {
+            "key": "language",
+            "value": "fr",
+            "section": "general",
+            "default_value": "en"
+        },
+        {
+            "key": "theme",
+            "value": "dark",
+            "section": "general",
+            "default_value": "light"
+        }
+    ],
+    "chain": {
         "theme": "dark",
         "language": "fr"
     },
-    "sections": {
-        "general": {
-            "theme": "dark",
-            "language": "fr"
-        }
+    "grouped_by_sections": {
+        "general": [
+            {
+                "key": "theme",
+                "value": "light",
+                "section": "general",
+                "default_value": "light"
+            },
+            {
+                "key": "language",
+                "value": "en",
+                "section": "general",
+                "default_value": "en"
+            },
+            {
+                "key": "language",
+                "value": "fr",
+                "section": "general",
+                "default_value": "en"
+            },
+            {
+                "key": "theme",
+                "value": "dark",
+                "section": "general",
+                "default_value": "light"
+            }
+        ]
     },
     "ordered_configs": {
         "env": {
