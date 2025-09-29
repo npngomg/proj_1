@@ -1,0 +1,12 @@
+{"timestamp": "2025-09-29 11:43:39", "level": "INFO", "message": "Вызов функции calculate_sum", "context": {"function": "calculate_sum", "args": "(5, 3)", "kwargs": "{}", "user_id": "12345"}}
+{"timestamp": "2025-09-29 11:43:39", "level": "INFO", "message": "Функция calculate_sum выполнена успешно", "context": {"function": "calculate_sum", "args": "(5, 3)", "kwargs": "{}", "user_id": "12345", "result": "8"}}
+{"timestamp": "2025-09-29 11:43:39", "level": "INFO", "message": "Вызов функции divide_numbers", "context": {"function": "divide_numbers", "args": "(10, 0)", "kwargs": "{}", "user_id": "12345"}}
+{"timestamp": "2025-09-29 11:43:39", "level": "ERROR", "message": "Ошибка в функции divide_numbers", "context": {"function": "divide_numbers", "args": "(10, 0)", "kwargs": "{}", "user_id": "12345", "error": "Деление на ноль"}}
+{"timestamp": "2025-09-29 11:43:48", "level": "INFO", "message": "Вызов функции calculate_sum", "context": {"function": "calculate_sum", "args": "(5, 3)", "kwargs": "{}", "user_id": "12345"}}
+{"timestamp": "2025-09-29 11:43:48", "level": "INFO", "message": "Вызов функции calculate_sum", "context": {"function": "calculate_sum", "args": "(5, 3)", "kwargs": "{}", "user_id": "12345"}}
+{"timestamp": "2025-09-29 11:43:48", "level": "INFO", "message": "Функция calculate_sum выполнена успешно", "context": {"function": "calculate_sum", "args": "(5, 3)", "kwargs": "{}", "user_id": "12345", "result": "8"}}
+{"timestamp": "2025-09-29 11:43:48", "level": "INFO", "message": "Функция calculate_sum выполнена успешно", "context": {"function": "calculate_sum", "args": "(5, 3)", "kwargs": "{}", "user_id": "12345", "result": "8"}}
+{"timestamp": "2025-09-29 11:43:48", "level": "INFO", "message": "Вызов функции divide_numbers", "context": {"function": "divide_numbers", "args": "(10, 0)", "kwargs": "{}", "user_id": "12345"}}
+{"timestamp": "2025-09-29 11:43:48", "level": "INFO", "message": "Вызов функции divide_numbers", "context": {"function": "divide_numbers", "args": "(10, 0)", "kwargs": "{}", "user_id": "12345"}}
+{"timestamp": "2025-09-29 11:43:48", "level": "ERROR", "message": "Ошибка в функции divide_numbers", "context": {"function": "divide_numbers", "args": "(10, 0)", "kwargs": "{}", "user_id": "12345", "error": "Деление на ноль"}}
+{"timestamp": "2025-09-29 11:43:48", "level": "ERROR", "message": "Ошибка в функции divide_numbers", "context": {"function": "divide_numbers", "args": "(10, 0)", "kwargs": "{}", "user_id": "12345", "error": "Деление на ноль"}}
